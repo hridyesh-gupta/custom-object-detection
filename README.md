@@ -27,6 +27,6 @@ Create your own custom object detection model and deploy it on the browser using
 
 ## Output:
 
-![GitHub Logo](/images/output.jpg)
+![GitHub Logo](https://th.bing.com/th/id/OIF.f1Rm0pmLpNfRR4aefIBb0g?rs=1&pid=ImgDetMain)
 
 
